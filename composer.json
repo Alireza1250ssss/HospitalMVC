@@ -1,0 +1,19 @@
+{
+    "name": "alire/hospital",
+    "autoload": {
+        "psr-4": {
+            "Alire\\Hospital\\": "src/",
+            "App\\" : "./"
+        },
+        "files": [
+            "Core/Helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "alireza",
+            "email": "alireza.salehi13810102@gmail.com"
+        }
+    ],
+    "require": {}
+}
